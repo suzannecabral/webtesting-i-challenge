@@ -62,6 +62,7 @@ typings/
 
 # debugger
 .vscode/launch.json
+.vscode/
 
 # Mac cruft
 .DS_Store
